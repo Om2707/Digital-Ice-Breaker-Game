@@ -1,0 +1,212 @@
+[
+  {
+    "id": "665e3d21-adcb-446b-bd5a-e5d5da4132b7",
+    "type": "move",
+    "text": "Everyone stand up and do 10 jumping jacks together. Ready? Go!",
+    "enabled": true
+  },
+  {
+    "id": "fd70d68a-e894-44fe-99bc-5255ccdd0a5c",
+    "type": "move",
+    "text": "Strike your best superhero pose and hold it for 5 seconds. Channel your inner power!",
+    "enabled": true
+  },
+  {
+    "id": "01671c84-9ebb-40a6-a679-a8ef0e590b4d",
+    "type": "move",
+    "text": "Do a group wave around the room — start left, end right. Make it smooth!",
+    "enabled": true
+  },
+  {
+    "id": "5b5c79dc-e773-4606-a1b3-ff29c89ff632",
+    "type": "move",
+    "text": "Everyone spin around once, then give each other a high-five.",
+    "enabled": true
+  },
+  {
+    "id": "810d5f59-f182-4d5d-8a81-3ac3590c8a4b",
+    "type": "move",
+    "text": "Do your best impression of a famous athlete or superhero for 10 seconds.",
+    "enabled": true
+  },
+  {
+    "id": "6bdcf6cd-1e60-4500-a8cf-365b0f6799f9",
+    "type": "move",
+    "text": "Walk to the front of the room, bow, and walk back. Own it!",
+    "enabled": true
+  },
+  {
+    "id": "2745a390-fdf3-4499-b235-a3c5f4a60772",
+    "type": "move",
+    "text": "Everyone stand on one foot for 15 seconds while cheering for each other.",
+    "enabled": true
+  },
+  {
+    "id": "acd4ce34-0c30-4c9f-9208-dcba51c60150",
+    "type": "move",
+    "text": "Form a human chain and do a synchronized dance move. Whatever feels right!",
+    "enabled": true
+  },
+  {
+    "id": "42b1d45f-f031-4282-a87f-0b28371a2f7b",
+    "type": "move",
+    "text": "Everyone touch the floor, reach for the sky, and clap. Repeat three times!",
+    "enabled": true
+  },
+  {
+    "id": "b9bc1494-dec4-4b19-b083-7253e8ebbefe",
+    "type": "move",
+    "text": "Do your best robot dance for 10 seconds. Beep boop!",
+    "enabled": true
+  },
+  {
+    "id": "dbaac833-2790-4a8a-90f1-79a93f635f14",
+    "type": "talk",
+    "text": "What skill do you have that would surprise your colleagues?",
+    "enabled": true
+  },
+  {
+    "id": "e4e05df3-6202-4f36-a373-9a33145b8a13",
+    "type": "talk",
+    "text": "If your team were a famous band, what would you be called and why?",
+    "enabled": true
+  },
+  {
+    "id": "38d8e141-f114-49ab-8041-565dafdcda9f",
+    "type": "talk",
+    "text": "Describe your current project using only movie titles. Go!",
+    "enabled": true
+  },
+  {
+    "id": "9676b144-88bd-4819-af90-c4a1cd86678c",
+    "type": "talk",
+    "text": "What's the best advice you've ever received, and who gave it to you?",
+    "enabled": true
+  },
+  {
+    "id": "9a69af52-75f6-4f6f-bd40-20ea3107b820",
+    "type": "talk",
+    "text": "If you could add one feature to your job, what would it be?",
+    "enabled": true
+  },
+  {
+    "id": "f157ed05-ea47-4ca4-ad93-22bdd9f3077e",
+    "type": "talk",
+    "text": "What's something you learned this week that surprised you?",
+    "enabled": true
+  },
+  {
+    "id": "4bc3c916-3dd8-4a5e-a0ce-7fef4f1c5672",
+    "type": "talk",
+    "text": "What's your ideal innovation: time, money, or team? Why?",
+    "enabled": true
+  },
+  {
+    "id": "887446d0-4071-464a-99bc-636af5ba5716",
+    "type": "talk",
+    "text": "Finish this sentence: \"The best ideas come from...\"",
+    "enabled": true
+  },
+  {
+    "id": "df355b3b-b069-4531-8b9e-27b0adebd558",
+    "type": "talk",
+    "text": "What was your first job, and what did it teach you?",
+    "enabled": true
+  },
+  {
+    "id": "ba5c59d7-aca1-414a-9fde-013f40b9320a",
+    "type": "talk",
+    "text": "If you could work on any project with anyone, what would it be?",
+    "enabled": true
+  },
+  {
+    "id": "5f8dd9b3-04b2-4e24-a338-df427182d7c9",
+    "type": "create",
+    "text": "Sketch the logo for a startup that solves your biggest work frustration. You have 60 seconds!",
+    "enabled": true
+  },
+  {
+    "id": "c4d3169d-7be2-4c0e-950b-4e661060870a",
+    "type": "create",
+    "text": "Write a 6-word story about innovation. Make it memorable!",
+    "enabled": true
+  },
+  {
+    "id": "16dcd250-2b9d-481d-9379-4d85363aa6a7",
+    "type": "create",
+    "text": "In 30 seconds, name as many uses for a paperclip as possible. Go!",
+    "enabled": true
+  },
+  {
+    "id": "8eef4809-1a1c-459e-9366-6e1513d2fcdb",
+    "type": "create",
+    "text": "Create a rap or poetry about your company in 45 seconds. No rhyming required!",
+    "enabled": true
+  },
+  {
+    "id": "a401025b-d065-4b8e-ae63-919d73d4bd5e",
+    "type": "create",
+    "text": "Design a new office snack in 60 seconds. What's it called? What does it taste like?",
+    "enabled": true
+  },
+  {
+    "id": "257b03b6-fb6d-4906-af4c-ba92d2d89a00",
+    "type": "create",
+    "text": "Invent a new holiday that celebrates your team. What's it called? How do you celebrate?",
+    "enabled": true
+  },
+  {
+    "id": "e00a258d-f686-4c45-ba21-43df2d5d298d",
+    "type": "create",
+    "text": "Create a haiku about teamwork using only one-syllable words. You have 60 seconds.",
+    "enabled": true
+  },
+  {
+    "id": "38aa5550-62fa-4c06-abcf-33cb4c98fd53",
+    "type": "create",
+    "text": "Design a new emoji that represents your team's vibe. Draw or describe it!",
+    "enabled": true
+  },
+  {
+    "id": "57ccd577-f5d9-49de-bb56-9460f79e51a7",
+    "type": "create",
+    "text": "Write a job posting for the role you wish existed. Make it funny!",
+    "enabled": true
+  },
+  {
+    "id": "5af9a500-5623-4765-80bc-c9b87390f276",
+    "type": "create",
+    "text": "Create a new word that describes the feeling of a great idea. What's it called?",
+    "enabled": true
+  },
+  {
+    "id": "a4a568e8-0525-4c9d-9d67-cbb8b7322f74",
+    "type": "wildcard",
+    "text": "Your team gets to make up a new rule for the rest of the game. What is it?",
+    "enabled": true
+  },
+  {
+    "id": "753e73df-afe8-4bf1-bb84-616ff5520fa2",
+    "type": "wildcard",
+    "text": "Swap one team member with another team for the next round. Choose wisely!",
+    "enabled": true
+  },
+  {
+    "id": "1a4690a7-8ec9-4122-8277-4f256e3ff807",
+    "type": "wildcard",
+    "text": "Everyone shout out their favorite emoji at the same time!",
+    "enabled": true
+  },
+  {
+    "id": "7ae236a5-9a9b-4d5c-943f-de5a57535e03",
+    "type": "wildcard",
+    "text": "The entire room must do your team's favorite dance move together.",
+    "enabled": true
+  },
+  {
+    "id": "b8f28d8d-2bfc-4bc1-b12f-d758ba799792",
+    "type": "wildcard",
+    "text": "Your team gets to ask the room any question and everyone must answer honestly.",
+    "enabled": true
+  }
+]

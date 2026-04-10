@@ -1,0 +1,28 @@
+{
+  "name": "innovation-board-game",
+  "version": "1.0.0",
+  "description": "Innovation Center Ice Breaker Board Game MVP",
+  "type": "module",
+  "scripts": {
+    "dev": "concurrently \"npm run server\" \"npm run client\"",
+    "dev-docker": "docker-compose up --build",
+    "dev-stop": "docker-compose down",
+    "server": "cd server && npm run dev",
+    "client": "cd client && npm run dev",
+    "build": "cd client && npm run build && cd ../server && npm run build",
+    "start": "node server/index.js",
+    "install-all": "npm install && cd server && npm install && cd ../client && npm install --legacy-peer-deps"
+  },
+  "keywords": [
+    "board-game",
+    "innovation",
+    "ice-breaker",
+    "real-time",
+    "multiplayer"
+  ],
+  "author": "Innovation Team",
+  "license": "MIT",
+  "devDependencies": {
+    "concurrently": "^8.2.0"
+  }
+}
